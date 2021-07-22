@@ -1,8 +1,10 @@
 <h1 align="center">Security Article</h1>
 
 > 爬取安全领域文章(Seebug、先知社区、安全客、freebuf等)，转成pdf存到本地之windows版本
+直接下载：https://github.com/wt2266232/Security_Articles/releases/download/0.1/Security_Articles-main.zip
+注意注意：不要下载上面打包，上面的没有修改过。使用方法和源作者一样，只是不用设置wkhtmltopdf了！
+  ##原因
 
-## 原因
 
 一些比较老的博文中的一些关键的图片会由于图片服务器错误（不提供图片）加载失败，但是又毫无办法。
 
