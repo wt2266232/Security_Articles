@@ -1,6 +1,6 @@
 <h1 align="center">Security Article</h1>
 
-> 爬取安全领域文章(Seebug、先知社区、安全客、freebuf等)，转成pdf存到本地
+> 爬取安全领域文章(Seebug、先知社区、安全客、freebuf等)，转成pdf存到本地之windows版本
 
 ## 原因
 
@@ -9,6 +9,7 @@
 有人选择把图片和文章内容全部爬下来存进数据库重新组织，但是对我个人不是很有必要，直接存成pdf反而更方便我阅读。
 
 考虑到版权等问题，只提供代码，不提供pdf文档
+之前g主只使用了liunx，没有使用windows，这次添加windows也可以爬取了！
 
 **PS**：在找解决方案的时候看到了一个去年完成的项目[Security Search](http://helosec.com/)，主要是实现信息聚合搜索的功能，内容很全也一直在更新。
 
